@@ -1,6 +1,7 @@
 body {
     background-image: url('img/background.jpg'); /* background image */
-    background-size: 175% auto;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
     color: #000305;
     font-size: 87.5%  /* Base font size is 14px */
     font-family: Arial, 'Lucida Sans Unicode';
